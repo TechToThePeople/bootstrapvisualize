@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <extension key="eu.tttp.bootstrapvisualize" type="module">
   <file>bootstrapvisualize</file>
-  <name>Boostrap layout for civisualize</name>
+  <name>Bootstrap layout for civisualize</name>
   <description>If you theme is already based on boostrap, civisualize works fine out of the box. If you don't, enable this extension that will add the missing stylesheets so the default datavisualisations work fine</description>
-  <license>AGPL-3.0</license>
+  <license>MIT</license>
   <maintainer>
     <author>xavier</author>
     <email>xavier@tttp.eu</email>
   </maintainer>
   <urls>
     <url desc="Main Extension Page">https://github.com/TechToThePeople/bootstrapvisualize</url>
-    <url desc="Documentation">https://github.com/TechToThePeople/bootstrapvisualize/url>
-      <url desc="Support">https://github.com/TechToThePeople/bootstrapvisualize</url>
-    <url desc="Licensing">MIT</url>
+    <url desc="Documentation">https://github.com/TechToThePeople/bootstrapvisualize</url>
+    <url desc="Support">https://github.com/TechToThePeople/bootstrapvisualize</url>
+    <url desc="Licensing">https://opensource.org/licenses/MIT</url>
   </urls>
   <releaseDate>2016-02-16</releaseDate>
   <version>1.0</version>
